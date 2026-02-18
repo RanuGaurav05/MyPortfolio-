@@ -14,7 +14,7 @@ const projects = [
     description: "SIH Alumni Hub | Smart India Hackathon (SIH25017)",
     links: {
       site: "https://alumnihub071.netlify.app/",
-      github: "https://github.com/ranugaurav/alumni-hub",
+      github: "https://github.com/RanuGaurav05/-user-alumni-hub",
     },
   },
   {
@@ -23,7 +23,7 @@ const projects = [
     description: "UI frontend development for Library Management System.",
     links: {
       site: "https://library-ui.netlify.app",
-      github: "https://github.com/ranugaurav/library-ui",
+      github: "https://github.com/RanuGaurav05/Library-managment-system-project",
     },
   },
   {
@@ -32,7 +32,7 @@ const projects = [
     description: "'HOODIE' An e-commerce platform using HTML, Tailwind CSS, and JavaScript.",
     links: {
       site: "https://hooddie.netlify.app/",
-      github: "https://github.com/ranugaurav/hoodie-store",
+      github: "https://github.com/RanuGaurav05/Hoodie",
     },
   },
   {
@@ -41,7 +41,7 @@ const projects = [
     description: "Advanced, fully-featured scientific calculator.",
     links: {
       site: "https://ranucalci.netlify.app/",
-      github: "https://github.com/ranugaurav/scientific-calculator",
+      github: "https://github.com/RanuGaurav05/ScientificCalci",
     },
   },
 ];

@@ -12,7 +12,7 @@ const Footer = () => {
           </h3>
 
           <div className="flex gap-6 text-gray-400 text-4xl">
-            <a href="https://github.com/RanuGaurav05?tab=repositories" target="_blank" rel="noopener noreferrer" className="hover:text-purple-400 transition">
+            <a href="https://github.com/RanuGaurav05" target="_blank" rel="noopener noreferrer" className="hover:text-purple-400 transition">
               <FaGithubSquare />
             </a>
             <a href="https://www.instagram.com/ranu.gaurav05/" target="_blank" rel="noopener noreferrer" className="hover:text-purple-400 transition">
