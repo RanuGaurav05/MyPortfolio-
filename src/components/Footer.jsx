@@ -22,7 +22,7 @@ const Footer = () => {
         </div>
 
         <p className="text-gray-400">
-          © 2026 RANU GAURAV
+          © 2027 RANU GAURAV
         </p>
       </div>
     </footer>
