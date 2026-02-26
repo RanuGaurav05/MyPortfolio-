@@ -1,5 +1,6 @@
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
+import Aboutme from "./components/Aboutme";
 import Skills from "./components/Skills";
 import Portfolio from "./components/Portfolio";
 import Experience from "./components/Experience";
@@ -19,8 +20,10 @@ export default function App() {
 
       {/* ALL CONTENT */}
       <div className="relative z-10">
+
         <Navbar />
         <Hero />
+        <Aboutme/>
         <Skills />
         <Portfolio />
         <Experience />
@@ -28,6 +31,7 @@ export default function App() {
         <Interests/>
         <Contact />
         <Footer />
+
       </div>
 
     </div>

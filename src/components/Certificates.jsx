@@ -5,19 +5,19 @@ const certificates = [
     title: "Full Stack Web Development with MERN",
     issuer: "Sheryians Coding School",
     year: "2025-26",
-    link: "#",
+    link: "/certificates/MERN-certificate.jpeg",
   },
   {
-    title: "React Development",
-    issuer: "Udemy",
-    year: "2023",
-    link: "#",
+    title: "Internship Offer Letter",
+    issuer: "Syntecxhub",
+    year: "2025",
+    link: "/certificates/internship-letter.pdf",
   },
   {
     title: "Data Structures and Algorithms in Python",
     issuer: "SAGE",
     year: "2025",
-    link: "#",
+    link: "/certificates/dsa-certificate.jpeg",
   },
 ];
 
