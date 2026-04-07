@@ -5,7 +5,7 @@ const certificates = [
     title: "Full Stack Web Development with MERN",
     issuer: "Sheryians Coding School",
     year: "2025-26",
-    link: "/certificates/MERN-certificate.jpeg",
+    link: "/certificates/MERN-certificate-sheryians.jpeg",
   },
   {
     title: "Internship Offer Letter",
